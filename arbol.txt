@@ -1,0 +1,1 @@
+digraph g {"Mord86"->"Asro25""Mord86"->"Stin94""Asro25"->"Imre78""Imre78"->"Avey48""Stin94"->"Taon95"}"Mord86"->"Imre78""Mord86"->"Taon95""Imre78"->"Avey48"}
